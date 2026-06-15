@@ -1,4 +1,4 @@
-# Game Telemetry & Automated QA Stress-Tester
+# Automated QA Stress-Tester
 
 A Python-based headless automation framework designed to run scale simulation testing and boundary verification on a decoupled turn-based RPG combat engine. 
 
