@@ -139,7 +139,7 @@ def run_boundary_test_suite():
 # --- MAIN RUNTIME MAIN ---
 if __name__ == "__main__":
     print("====================================================================")
-    print("             VIRTUAL CORE ENGINE RUNTIME LOGS                      ")
+    print("                        ENGINE RUNTIME LOGS                         ")
     print("====================================================================\n")
     
     test_player = Entity(name="Player-1", hp=150, attack=30, defense=10, crit_rate=0.20)
